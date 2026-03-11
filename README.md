@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Pennyway Releases 🚀</h1>
+  <img src="pennyway_logo_on_light.png" width="100" />
+  <h1>Pennyway</h1>
   <p><b>your money, your rules</b></p>
   <p>This repository hosts the official releases and installer files for the Pennyway desktop application.</p>
 </div>
